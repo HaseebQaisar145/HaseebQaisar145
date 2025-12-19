@@ -50,7 +50,7 @@
 
 🔹 **Hospital Managment System **  
 👉 Without UI etc Basci Level
-🔗 https://github.com/HaseebQaiser1434/UET-Chatbot
+🔗 https://github.com/HaseebQaiser1434/Hospital-Managment-System-Using-Python
 
 ---
 

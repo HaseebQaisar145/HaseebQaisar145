@@ -44,9 +44,9 @@
 👉 Real-time object detection using YOLOv8 & OpenCV  
 🔗 https://github.com/HaseebQaiser1434/AI-Object-Detection
 
-🔹 **RAG-based Question Answering System**  
-👉 LLM-powered document QA using FAISS & Transformers  
-🔗 https://github.com/HaseebQaiser1434/rag-qa-system
+🔹 **RAGUnivrsity Chatbot-based on Question Answering System**  
+👉 LLM-powered document QA 
+🔗 https://github.com/HaseebQaiser1434/UET-Chatbot
 
 ---
 

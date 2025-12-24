@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Haseeb Qaiser</h1>
+<h1 align="center">Hi 👋, I'm Haseeb Qaisar</h1>
 <h3 align="center">AI Engineer</h3>
 
 <p align="center">

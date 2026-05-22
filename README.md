@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 👨‍💻 AI Engineer with 2+ years of experience building production-ready AI systems  
-🤖 Expertise in **Machine Learning, Deep Learning, Computer Vision, LLMs & RAG**  
+🤖 Expertise in **Machine Learning, Deep Learning, Computer Vision**  
 📊 Strong background in **Python, PyTorch, TensorFlow, FastAPI**  
 🎯 Focused on scalable, real-world AI solutions  
 
@@ -22,7 +22,6 @@
 ## 🧠 Skills & Expertise
 - Machine Learning & Deep Learning
 - Computer Vision (YOLOv8, OpenCV)
-- NLP, LLMs & Retrieval-Augmented Generation (RAG)
 - Model Training, Evaluation & Deployment
 - MLOps, APIs & AI System Integration
 
@@ -44,8 +43,8 @@
 👉 Real-time object detection using YOLOv8 & OpenCV  
 🔗 https://github.com/HaseebQaiser1434/AI-Object-Detection
 
-🔹 **RAGUnivrsity Chatbot-based on Question Answering System**  
-👉 LLM-powered document QA 
+🔹 **Univrsity Chatbot-based on Question Answering System**  
+👉 Information base chatbot, document QA 
 🔗 https://github.com/HaseebQaiser1434/UET-Chatbot
 
 🔹 **Hospital Managment System **  

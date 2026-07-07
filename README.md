@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-👨‍💻 AI Engineer with 2+ years of experience building production-ready AI systems  
+👨‍💻 AI Engineer with of experience building production-ready AI systems  
 🤖 Expertise in **Machine Learning, Deep Learning, Computer Vision**  
 📊 Strong background in **Python, PyTorch, TensorFlow, FastAPI**  
 🎯 Focused on scalable, real-world AI solutions  

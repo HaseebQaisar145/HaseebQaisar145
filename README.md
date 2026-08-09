@@ -43,9 +43,13 @@
 👉 Real-time object detection using YOLOv8 & OpenCV  
 🔗 https://github.com/HaseebQaiser1434/AI-Object-Detection
 
-🔹 **Univrsity Chatbot-based on Question Answering System**  
-👉 Information base chatbot, document QA 
-🔗 https://github.com/HaseebQaiser1434/UET-Chatbot
+🔹 **Plant Disease Detection System**  
+👉 AI-based Plant Disease Detection using CNNs
+🔗https://github.com/HaseebQaisar145/Plant-Disease-Detection-System
+
+🔹 **Home Item Detction System**  
+👉 AI-based Home Item Detection System(In this i developed custom Dataset in Robolflow)
+🔗https://github.com/HaseebQaisar145/AI-Object-Detection
 
 🔹 **Hospital Managment System **  
 👉 Without UI etc Basci Level

@@ -39,23 +39,20 @@
 👉 AI-based deepfake face video detection using CNNs  
 🔗 https://github.com/HaseebQaiser1434/deepfake-detection
 
-🔹 **YOLOv8 Object Detection**  
-👉 Real-time object detection using YOLOv8 & OpenCV  
+🔹 **Home Item Objects Detection**  
+👉 Real-time object detection using YOLOv8 & OpenCV(In this i developed custom Dataset on Robolflow) 
 🔗 https://github.com/HaseebQaiser1434/AI-Object-Detection
 
 🔹 **Plant Disease Detection System**  
 👉 AI-based Plant Disease Detection using CNNs
-
 🔗 https://github.com/HaseebQaisar145/Plant-Disease-Detection-System
 
-🔹 **Home Item Detction System**  
-👉 AI-based Home Item Detection System(In this i developed custom Dataset in Robolflow)
-
-🔗 https://github.com/HaseebQaisar145/AI-Object-Detection
+🔹 **Real time Face musk Detction System**  
+👉 AI-based Real time face musk Detection System
+🔗 https://github.com/HaseebQaisar145/Real-Time-Face-Mask-Detector
 
 🔹 **Hospital Managment System **  
 👉 Without UI etc Basci Level
-
 🔗 https://github.com/HaseebQaiser1434/Hospital-Managment-System-Using-Python
 
 ---

@@ -45,14 +45,17 @@
 
 🔹 **Plant Disease Detection System**  
 👉 AI-based Plant Disease Detection using CNNs
+
 🔗 https://github.com/HaseebQaisar145/Plant-Disease-Detection-System
 
 🔹 **Home Item Detction System**  
 👉 AI-based Home Item Detection System(In this i developed custom Dataset in Robolflow)
+
 🔗 https://github.com/HaseebQaisar145/AI-Object-Detection
 
 🔹 **Hospital Managment System **  
 👉 Without UI etc Basci Level
+
 🔗 https://github.com/HaseebQaiser1434/Hospital-Managment-System-Using-Python
 
 ---
